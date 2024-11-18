@@ -1,0 +1,83 @@
+body{
+    background-color:white;
+    color:black;
+    }
+.displayContainer{
+    border:solid purple;
+    background-color: yellow;
+    width: 105%;
+    image-rendering: auto;
+}
+.navigation{
+    border:solid lime;
+    background-color:yellow;
+    /* height:12vh; */
+    padding:12px;
+   
+}
+.navTop{
+    border:solid blue;
+    height:100%;
+    display:flex;
+    justify-content: space-between;
+}
+.icon{
+    border:solid red;
+    height:40px;
+    width:40px;
+}
+#unique{
+    width:30%;
+}
+.diz{
+    width:100%;
+    background-color:blue;
+}
+.navBottom{
+    border:solid peru;
+    /* height:45px; */
+    display:flex;
+    justify-content: space-around;
+}
+.navTab{
+    /* border:solid green; */
+    /* width:25vw; */
+
+}
+.deadpool{
+    border:solid lightblue;
+    background-color: yellow;
+    height: 21vh;
+
+
+}
+.productContainer{
+    border:double salmon;
+    height:85vh;
+    border-width:9px;
+    margin:2em;
+}
+.productContainer{
+    border:solid burlywood;
+    /* height:66vh; */
+}
+.displayImg{
+    border:solid navy;
+    width:90%;
+    height:auto;
+    margin:1em;
+}
+.productsTitle{
+    text-align:center;
+}
+.infoContainer{
+    border:solid white;
+    height:300px;
+    display:flex;
+}
+.displayMe{
+    border:solid fuchsia;
+    margin:1em;
+    width:33%;
+
+}
